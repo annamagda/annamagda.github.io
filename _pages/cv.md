@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Anthropology, Stanford University, 2016
+* Ph.D in Anthropology, Stanford University, 2016 
 * M.H.S. in International Health, Johns Hopkins Bloomberg School of Public Health, 2004
-* B.A. in Human Biology, Stanford University, 2012
+* B.A. in Human Biology, Stanford University, 2002
 
 Work experience
 ======
