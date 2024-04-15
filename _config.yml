@@ -21,7 +21,7 @@ repository               : "annamagda/annamagda.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/AW photo Paris 2019.jpeg"
   name             : "Anna West"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
