@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Anthropology, Stanford University, 2016 
-* M.H.S. in International Health, Johns Hopkins Bloomberg School of Public Health, 2004
-* B.A. in Human Biology, Stanford University, 2002
+* Ph.D in Anthropology, Stanford University 
+* M.H.S. in International Health, Johns Hopkins Bloomberg School of Public Health
+* B.A. in Human Biology, Stanford University
 
 Work experience
 ======
-* 2017 - present: Assistant Professor of Health Studies; Director of Health Studies
+* 2017 - present: Assistant Professor of Health Studies Director of Health Studies
   * Haverford College
   * Duties includes: Updates and improvements to template
 
