@@ -17,19 +17,16 @@ Education
 
 Work experience
 ======
-* 2017 - present: Assistant Professor of Health Studies Director of Health Studies
-  * Haverford College
-  * Duties includes: Updates and improvements to template
+* 2017 - present: Assistant Professor of Health Studies, Haverford College  
 
-* 2015-2017: Assistant Professor of Anthropology
-  * William Paterson University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2017: Assistant Professor of Anthropology. William Paterson University 
+#  * Duties included: Merging pull requests
+ # * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant EDIT HERE 
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant EDIT HERE 
+ # * Github University
+  #* Duties included: Tagging issues
+  # * Supervisor: Professor Git
   
 Skills
 ======
